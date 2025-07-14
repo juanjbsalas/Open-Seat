@@ -4,18 +4,14 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
+from filename import setupDriver
+
 
 
 # Constants
 URL = "https://connect.wofford.edu/myWofford/registrar/courseSchedule.aspx"
 
-# Function to set up Selenium WebDriver
-def setupDriver():
-   options = Options()
-   options.add_argument("--headless")  # Run in headless mode
-   return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
-
-# Function to scrape course data
+# Function to scrape course data, returns dictionsry w/ crn as key and course info as value.
 def scrapeCourses():
     driver = setupDriver()
     driver.get(URL)
