@@ -3,22 +3,21 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-# from backend.notifier import send_email
-# from backend.tracking import watchlist
+
 
 
 # Constants
 URL = "https://connect.wofford.edu/myWofford/registrar/courseSchedule.aspx"
 
 # Function to set up Selenium WebDriver
-#def setup_driver():
-#    options = Options()
-#    options.add_argument("--headless")  # Run in headless mode
-#    return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+def setupDriver():
+   options = Options()
+   options.add_argument("--headless")  # Run in headless mode
+   return webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
 # Function to scrape course data
-def scrape_courses():
-    driver = setup_driver()
+def scrapeCourses():
+    driver = setupDriver()
     driver.get(URL)
 
     # Find table rows (excluding headers)
