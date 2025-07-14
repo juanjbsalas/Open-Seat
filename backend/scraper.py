@@ -4,8 +4,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 
-from filename import setupDriver
-
+from driver import setupDriver
 
 
 # Constants
@@ -20,7 +19,7 @@ def scrapeCourses():
     rows = driver.find_elements(By.CSS_SELECTOR, "table tr")[1:]
 
     # Dictionary to store course data
-    course_dict = {}
+    courseDict = {}
 
     for row in rows:
         columns = row.find_elements(By.TAG_NAME, "td")
@@ -36,7 +35,7 @@ def scrapeCourses():
             instructor = details[20]
             available_seats = int(details[19]) if details[19].isdigit() else 0  # Convert to integer
 
-            course_dict[crn] = {
+            courseDict[crn] = {
                 "subject": subject,
                 "course_number": course_number,
                 "title": title,
@@ -47,10 +46,10 @@ def scrapeCourses():
             }
 
     driver.quit()
-    return course_dict
+    return courseDict
 
 
-print(scrape_courses())
+print(scrapeCourses())
 
 
 

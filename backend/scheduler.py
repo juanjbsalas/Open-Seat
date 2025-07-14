@@ -15,3 +15,8 @@
 
 # Use schedule.every(5).minutes.do(...) to call this
 
+from scraper import scrapeCourses 
+
+# def notifier():
+
+
