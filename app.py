@@ -1,38 +1,26 @@
-# from flask import Flask, render_template, redirect, url_for, request
-
-# app = Flask(__name__)
-
-# @app.route('/')
-# def home():
-#     return render_template('index.html')
-
-# # Example
-# @app.route("/login", methods=["POST", "GET"])
-# def login():
-#     if request.method == "POST":
-#         user = request.form["nm"]
-#         return redirect(url_for("user", usr=user))
-#     else:
-#         return render_template('login.html')
-
-
-# @app.route("/<usr>")
-# def user(usr):
-#     return f"<h1>{usr}</h1>"
-
-# if __name__ == "__main__":
-#     app.run(debug=True)
-
+import os
+import logging
 from flask import Flask, request, render_template, jsonify, redirect, url_for
 import threading
 import time
 import json
-import os
 from datetime import datetime
 from scraper import scrapeCourses
 from notifier import send_email
 
 app = Flask(__name__)
+
+# Configure logging for production
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+# Production configuration
+class Config:
+    SECRET_KEY = os.environ.get('SECRET_KEY', 'dev-secret-key-change-in-production')
+    DEBUG = os.environ.get('FLASK_ENV') == 'development'
+    PORT = int(os.environ.get('PORT', 5000))
+
+app.config.from_object(Config)
 
 # In-memory storage for user requests (you can replace this with a database later)
 user_requests = []
@@ -227,7 +215,40 @@ def start_existing_monitors():
             active_monitors[crn] = monitor_thread
             monitor_thread.start()
 
+# Add a health check endpoint for Railway
+@app.route('/health')
+def health_check():
+    """Health check endpoint for Railway"""
+    return jsonify({
+        'status': 'healthy',
+        'active_monitors': len(active_monitors),
+        'total_requests': len(user_requests)
+    })
+
+# Add error handlers for production
+@app.errorhandler(500)
+def handle_500(e):
+    logger.error(f"Server error: {str(e)}")
+    return render_template('index.html', error="An internal error occurred. Please try again later."), 500
+
+@app.errorhandler(404)
+def handle_404(e):
+    return redirect(url_for('index'))
+
 if __name__ == '__main__':
-    # Load existing requests and start monitoring
-    start_existing_monitors()
-    app.run(debug=True, threaded=True)
+    try:
+        # Load existing requests and start monitoring
+        start_existing_monitors()
+        logger.info(f"Starting Open Seat app on port {Config.PORT}")
+        
+        # Run the app
+        app.run(
+            host='0.0.0.0', 
+            port=Config.PORT, 
+            debug=Config.DEBUG, 
+            threaded=True
+        )
+    except Exception as e:
+        logger.error(f"Failed to start app: {str(e)}")
+        raise
+

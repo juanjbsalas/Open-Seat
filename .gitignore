@@ -1,19 +1,9 @@
-# Environment variables
 .env
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
 venv/
-env/
-
-# Project specific
+__pycache__/
+*.pyc
+.DS_Store
 user_requests.json
 available_crns.txt
-
-# OS
-.DS_Store
-Thumbs.db
+debug_*.py
+test_*.py
