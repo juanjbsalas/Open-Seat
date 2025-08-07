@@ -1,0 +1,561 @@
+Available CRNs:
+====================
+9001: ARBC 101 - Beginning Active Arabic
+9002: ECO 201 - Principles of Microeconomics
+9003: ECO 201 - Principles of Microeconomics
+9004: ECO 201 - Principles of Microeconomics
+9005: ECO 201 - Principles of Microeconomics
+9006: ECO 201 - Principles of Microeconomics
+9007: ECO 202 - Principles of Macroeconomics
+9008: ECO 202 - Principles of Macroeconomics
+9009: ECO 202 - Principles of Macroeconomics
+9010: ECO 202 - Principles of Macroeconomics
+9011: ECO 301 - Intermediate Microecon Theory
+9012: ECO 311 - Economic History of the US
+9013: ECO 322 - Money and Banking
+9014: ECO 334 - Economics of Property Rights
+9015: ECO 372 - Business Law
+9016: ECO 372 - Business Law
+9017: FREN 101 - Beginning Active French
+9018: FREN 201 - Intermediate Active French
+9019: FREN 201 - Intermediate Active French
+9020: FREN 303 - Advanced French
+9021: GER 101 - Beginning Active German
+9022: GER 201 - Intermediate Active German
+9023: GER 303 - Advanced German
+9024: GER 308 - Introduction to German Lit
+9025: MUS 150 - Concert Band
+9026: MUS 151 - String Ensemble
+9027: MUS 201 - Music Appreciation
+9028: MUS 201 - Music Appreciation
+9029: MUS 202 - Elements of Music Theory
+9030: MUS 260 - Private Instruction: Voice
+9031: MUS 260 - Private Instruction: Piano
+9033: INTL 203 - Foundations of World Politics
+9034: INTL 203 - Foundations of World Politics
+9035: INTL 260 - Comparing States & Societies
+9036: INTL 361 - Middle East Politics
+9037: GOV 202 - Foundations of Amer. Politics
+9039: GOV 310 - American Political Develop I
+9040: GOV 391 - Classical Political Thought
+9041: LACS 320 - Americas Seminar I
+9042: CHIN 101 - Beginning Active Chinese
+9043: CHIN 201 - Low Intermediate Chinese
+9045: CHIN 301 - High Intermediate Chinese
+9047: ENVS 101 - Intro to Environmental Studies
+9048: ENVS 101 - Intro to Environ Studies Lab
+9049: ENVS 150 - Intro to Earth System Science
+9050: ENVS 150 - Intro to Earth System Sci Lab
+9051: ENVS 203 - Intro to Environmental Science
+9052: ENVS 203 - Intro to Environmental Sci Lab
+9053: ENVS 449 - Senior Capstone Project
+9054: ENVS 449 - Senior Capstone Project
+9055: ACCT 211 - Accounting Principles
+9056: ACCT 211 - Accounting Principles
+9057: ACCT 211 - Accounting Principles
+9058: ACCT 211 - Accounting Principles
+9059: ACCT 341 - Cost Accounting I
+9060: ACCT 341 - Cost Accounting I
+9061: ACCT 345 - Accounting Information Systems
+9062: ACCT 351 - Intermediate Accounting I
+9063: ACCT 351 - Intermediate Accounting I
+9064: ACCT 352 - Intermediate Accounting II
+9066: ACCT 412 - Auditing
+9067: ACCT 425 - Income Tax Concepts & Decision
+9068: ACCT 441 - Cost Accounting II
+9069: ARTH 201 - History of Western Art I
+9072: ARTH 411 - Art Historiography
+9074: ARTS 260 - Sculpture I
+9075: BIO 150 - Biological Inquiry
+9076: BIO 150 - Biological Inquiry
+9077: BIO 150 - Biological Inquiry Lab
+9078: BIO 150 - Biological Inquiry
+9079: BIO 150 - Biological Inquiry Lab
+9080: BIO 150 - Biological Inquiry
+9081: BIO 150 - Biological Inquiry Lab
+9082: BIO 150 - Biological Inquiry
+9083: BIO 150 - Biological Inquiry Lab
+9084: BIO 150 - Biological Inquiry
+9085: BIO 150 - Biological Inquiry Lab
+9088: BIO 324 - Microbiology (with lab)
+9089: BIO 324 - Microbiology Lab
+9090: BIO 150 - Biological Inquiry Lab
+9091: BIO 342 - Human Physiology (with lab)
+9092: BIO 342 - Human Physiology (with lab)
+9093: BIO 433 - Cellular Biochemistry
+9094: BUS 331 - Management
+9095: BUS 331 - Management
+9096: BUS 338 - Marketing
+9097: BUS 338 - Marketing
+9098: BUS 347 - Entrepreneurship & Sm Business
+9099: EDUC 200 - Foundations of Education
+9100: EDUC 200 - Foundations of Education
+9101: EDUC 310 - Foundations of Literacy
+9102: FIN 321 - Business Finance
+9103: FIN 321 - Business Finance
+9104: FIN 321 - Business Finance
+9105: FIN 321 - Business Finance
+9106: FIN 411 - Investments
+9107: FIN 415 - Bank Management
+9108: FIN 435 - Real Estate Analysis
+9109: FIN 440 - International Finance
+9112: HIST 318 - American Legal History
+9113: HUM 469 - Developing Capstone Proposal
+9114: MATH 140 - Introduction to Statistics
+9115: MATH 140 - Introduction to Statistics
+9116: MATH 140 - Introduction to Statistics
+9117: MATH 140 - Introduction to Statistics
+9118: MATH 140 - Introduction to Statistics
+9119: MATH 140 - Introduction to Statistics
+9120: MATH 140 - Introduction to Statistics
+9121: MATH 181 - Calculus I
+9122: MATH 181 - Calculus I
+9123: MATH 182 - Calculus II
+9124: MATH 201 - Modeling & Simulation
+9125: MATH 210 - Multivariable Calculus
+9126: MATH 260 - Intro to Mathematical Proof
+9127: MATH 431 - Abstract Algebra I
+9128: MATH 445 - Nonlin Dynamics & Chaos Theory
+9129: MILS 101 - Military Leadership I
+9130: MILS 101 - Military Leadership I Lab
+9131: MILS 201 - Military Leadership II
+9132: MILS 201 - Military Leadership II Lab
+9133: MILS 301 - Military Leadership III
+9134: MILS 301 - Military Leadership III Lab
+9135: MILS 401 - Military Leadership IV
+9136: MILS 401 - Military Leadership IV Lab
+9137: NEUS 251 - Introduction to Research I
+9138: PHIL 203 - Problems of Philosophy
+9140: BIO 324 - Microbiology Lab
+9141: REL 221 - Introduction to Islam
+9142: REL 221 - Introduction to Islam
+9144: COSC 201 - Modeling & Simulation
+9145: COSC 235 - Programming & Problem Solving
+9146: COSC 235 - Programming & Problem Solving
+9147: COSC 350 - Data Structures & Algorithms
+9148: COSC 410 - Software Engineering
+9149: PHY 121 - General Physics I
+9150: PHY 121 - General Physics I Lab
+9151: PHY 121 - General Physics I Lab
+9152: PHY 141 - Phy for Sci & Engineering I
+9153: SPAN 101 - Beginning Active Spanish
+9154: SPAN 101 - Beginning Active Spanish
+9159: SPAN 201 - Intermediate Active Spanish
+9160: SPAN 201 - Intermediate Active Spanish
+9161: SPAN 201 - Intermediate Active Spanish
+9162: SPAN 201 - Intermediate Active Spanish
+9163: SPAN 201 - Intermediate Active Spanish
+9164: PHY 141 - Phy for Sci & Engineer I Lab
+9165: PHY 211 - Modern Physics
+9167: PHY 451 - Research
+9168: CHEM 123 - General Chemistry
+9169: CHEM 123 - General Chemistry Lab
+9170: CHEM 123 - General Chemistry
+9171: CHEM 123 - General Chemistry Lab
+9172: CHEM 123 - General Chemistry
+9173: CHEM 123 - General Chemistry Lab
+9174: CHEM 123 - General Chemistry
+9175: CHEM 123 - General Chemistry Lab
+9177: CHEM 124 - General Chemistry
+9178: CHEM 124 - General Chemistry Lab
+9179: CHEM 203 - Organic Chemistry I
+9180: CHEM 203 - Organic Chemistry I Lab
+9181: CHEM 203 - Organic Chemistry I
+9182: CHEM 203 - Organic Chemistry I Lab
+9184: CHEM 309 - Biochemistry
+9185: CHEM 309 - Biochemistry Lab
+9186: CHEM 313 - Physical Chemistry I
+9187: CHEM 313 - Physical Chemistry I Lab
+9188: CHEM 323 - Inorganic Chemistry (with lab)
+9189: CHEM 323 - Inorganic Chemistry Lab
+9190: CHEM 360 - Chemical Information & Seminar
+9191: CHEM 411 - Instrumental Analysis
+9192: CHEM 411 - Instrumental Analysis Lab
+9193: CHEM 422 - Organic Spectroscopy
+9194: PSY 150 - Intro to Psychological Science
+9195: PSY 150 - Intro to Psychological Sci Lab
+9196: PSY 150 - Intro to Psychological Science
+9197: PSY 150 - Intro to Psychological Sci Lab
+9198: PSY 220 - Psychopathology
+9199: PSY 230 - Biological Psychology
+9200: PSY 230 - Biological Psychology Lab
+9201: PSY 451 - Senior Thesis I
+9202: PSY 451 - Senior Thesis I
+9203: PSY 451 - Senior Thesis I
+9204: SPAN 201 - Intermediate Active Spanish
+9205: SPAN 201 - Intermediate Active Spanish
+9206: SPAN 303 - Advanced Spanish
+9207: SPAN 303 - Advanced Spanish
+9208: SPAN 303 - Advanced Spanish
+9209: SPAN 305 - Cultures of Latin America
+9210: SPAN 305 - Cultures of Latin America
+9211: THEA 212 - Art of Acting
+9213: NEUS 252 - Intro to Research II
+9214: NEUS 321 - Neuroscience Seminar I
+9215: ARBC 201 - Intermediate Active Arabic
+9216: ARBC 301 - Advanced Arabic
+9218: ENGL 200 - Introduction to Literary Study
+9219: ENGL 200 - Introduction to Literary Study
+9220: ENGL 200 - Introduction to Literary Study
+9221: ENGL 201 - English Literature to 1800
+9224: ENGL 202 - English Literature Since 1800
+9225: ENGL 203 - Literature Written in the U.S.
+9226: ENGL 204 - Survey of World Literature
+9227: ENGL 260 - Intro to English Studies
+9228: ENGL 304 - Spenser, Milton, & Ren. Epic
+9229: ENGL 373 - Poetry Workshop
+9230: ENGL 413 - The Early English Novel
+9231: ENGL 205 - Intro to Film & Digital Media
+9233: REL 264 - Religion & Medicine
+9234: REL 264 - Religion & Medicine
+9239: FYI 101 - First-Year Interaction Seminar
+9240: FYI 101 - First-Year Interaction Seminar
+9241: CHEM 203 - Organic Chemistry I Lab
+9242: ANTH 201 - Intro Archaeol & Physical Anth
+9245: FYI 101 - First-Year Interaction Seminar
+9246: FYI 101 - First-Year Interaction Seminar
+9247: FYI 101 - First-Year Interaction Seminar
+9248: FYI 101 - First-Year Interaction Seminar
+9249: FYI 101 - First-Year Interaction Seminar
+9250: FYI 101 - First-Year Interaction Seminar
+9251: FYI 101 - First-Year Interaction Seminar
+9252: FYI 101 - First-Year Interaction Seminar
+9253: FYI 101 - First-Year Interaction Seminar
+9254: FYI 101 - First-Year Interaction Seminar
+9255: FYI 101 - First-Year Interaction Seminar
+9256: FYI 101 - First-Year Interaction Seminar
+9257: FYI 101 - First-Year Interaction Seminar
+9258: FYI 101 - First-Year Interaction Seminar
+9260: FYI 101 - First-Year Interaction Seminar
+9261: FYI 101 - First-Year Interaction Seminar
+9263: FYI 101 - First-Year Interaction Seminar
+9265: ANTH 201 - Intro Archaeol & Physical Anth
+9266: ENGL 200 - Introduction to Literary Study
+9267: MUS 100 - Men's Glee Club
+9268: MUS 101 - Wofford Singers
+9269: MUS 102 - Women's Choir
+9270: MUS 285 - Jazz Ensemble
+9271: PHED 102 - Fitness
+9272: PHED 102 - Fitness
+9273: PHED 103 - Tennis
+9274: NEUS 447 - Neuro Research Capstone I
+9275: NEUS 448 - Neuro Research Capstone II
+9276: THEA 210 - Stagecraft
+9277: THEA 300 - Ensemble
+9278: THEA 350 - Stage Management Practicum
+9279: FREN 304 - The French World: France
+9280: MUS 203 - History of American Music
+9281: COSC 315 - Computer Networks
+9282: BIO 342 - Human Physiology Lab
+9283: BIO 342 - Human Physiology Lab
+9284: PHIL 204 - Introduction to Ethics
+9285: PSY 160 - Quantitative Methods in Psy I
+9286: PSY 420 - Clinical Psychology
+9287: CHEM 124 - General Chemistry
+9288: CHEM 124 - General Chemistry Lab
+9290: PHED 107 - Dance
+9291: ENGL 200 - Introduction to Literary Study
+9292: ANTH 305 - Sustainable Communities
+9293: ENGL 379 - Screenwriting Workshop
+9294: ENGL 400 - Communications in Community
+9295: ARTS 447 - Senior Studio I
+9296: MATH 120 - Appreciation of Mathematics
+9297: MATH 120 - Appreciation of Mathematics
+9298: MATH 140 - Introduction to Statistics
+9299: GOV 436 - Winston Churchill-Statesman
+9300: GOV 450 - Senior Directed Study
+9303: FIN 420 - Cases in Finance
+9304: COSC 320 - Programming Languages
+9306: MUS 170 - Concert Attendance
+9307: SPAN 303 - Advanced Spanish
+9308: FREN 101 - Beginning Active French
+9309: GOV 202 - Foundations of Amer. Politics
+9310: CHEM 203 - Organic Chemistry I
+9311: SPAN 201 - Intermediate Active Spanish
+9313: INTL 203 - Foundations of World Politics
+9315: EDUC 200 - Foundations of Education
+9316: SPAN 101 - Beginning Active Spanish
+9317: THEA 201 - Introduction to the Theatre
+9320: ENGL 203 - Literature Written in the U.S.
+9321: ENGL 371 - Short Story Workshop
+9322: ENGL 388 - Public Speaking
+9323: MUS 260 - Private Instruction: Strings
+9325: REL 241 - Interreligious Engagement
+9328: PSY 161 - Quantitative Methods in Psy II
+9329: PSY 270 - Health Psychology
+9330: PHIL 204 - Introduction to Ethics
+9332: HIST 100 - Ancient, Medieval Hist to 1350
+9334: HIST 111 - History of the US, 1607-1865
+9336: PHY 121 - General Physics I
+9338: HIST 112 - History of the US Since 1865
+9339: HIST 193 - Hist People Sub-Saharan Africa
+9340: HIST 193 - Hist People Sub-Saharan Africa
+9342: ARTS 353 - Painting
+9344: PHED 102 - Fitness
+9345: ARTH 201 - History of Western Art I
+9346: ARTH 231 - Global History of Modern Art
+9347: ARTH 330 - Museum Studies
+9348: BIO 324 - Microbiology (with lab)
+9351: FIN 437 - Real Estate Development
+9352: CHEM 250 - Introduction to Research
+9353: PHED 108 - Yoga
+9354: THEA 201 - Introduction to the Theatre
+9355: PHIL 203 - Problems of Philosophy
+9356: ENGL 203 - Literature Written in the U.S.
+9357: MATH 221 - Statistical Methods I
+9358: PSY 255 - Introduction to Research
+9359: ENGL 203 - Literature Written in the U.S.
+9360: CHEM 250 - Introduction to Research
+9364: ARTS 261 - Ceramics I
+9365: ARTS 258 - New Media I
+9366: CHEM 450 - Senior Research
+9369: PHED 102 - Fitness
+9370: GOV 202 - Foundations of Amer. Politics
+9371: GOV 202 - Foundations of Amer. Politics
+9372: ECO 202 - Principles of Macroeconomics
+9373: ANTH 101 - Introduction to Anthropology
+9375: SOC 101 - Introduction to Sociology
+9376: SOC 101 - Introduction to Sociology
+9377: SOC 216 - Gender in Society
+9378: MATH 170 - Functions Modeling Change
+9379: MATH 181 - Calculus I
+9383: LIBA 101 - The Last Frontier
+9384: LIBA 101 - Society, Culture in Arab World
+9385: LIBA 101 - College Student Development
+9386: LIBA 101 - German Pop Culture
+9387: LIBA 101 - Contemporary German Cinema
+9388: LIBA 101 - The "I" in Family
+9389: LIBA 101 - Nature, Arts, Human Identity
+9391: LIBA 101 - Graphic Novels & Identity
+9392: LIBA 101 - Graphic Novels & Identity
+9393: LIBA 101 - Food Writing,Identity,Culture
+9394: LIBA 101 - Ecohorror Film
+9395: LIBA 101 - Laughing Together
+9396: LIBA 101 - Television Studies
+9397: LIBA 101 - What is Mathematics?
+9398: LIBA 101 - Travel, Writing, and Ethics
+9399: LIBA 101 - Crafting the Good Life
+9400: LIBA 101 - Liberal Arts Seminar
+9401: LIBA 101 - Sherlock Holmes & Liberal Arts
+9402: LIBA 101 - Utopian Literature
+9404: LIBA 101 - North of Main/South of Main
+9405: LIBA 101 - Climate: Justice, Beauty, Hope
+9406: LIBA 101 - East Asian Society and Culture
+9407: LIBA 101 - The Last Frontier
+9408: LIBA 101 - Contemporary Russian Culture
+9410: LIBA 101 - Climate: Justice, Beauty, Hope
+9412: LIBA 101 - (En)countering Ableist Gaze
+9413: LIBA 101 - Write/Analyze Horror Fiction
+9414: LIBA 101 - Literature and Culture
+9415: BIO 213 - Genetics & Molecular Biology
+9416: BIO 213 - Genetics & Molecular Biology
+9417: BIO 215 - Intro to Cellular Biology
+9418: BIO 215 - Intro to Cellular Biology
+9419: COSC 240 - Discrete Structures
+9421: GOV 431 - The American Presidency
+9422: GOV 432 - US Congress
+9424: INTL 477 - Senior Seminar
+9427: MATH 201 - Modeling & Simulation
+9430: FYI 101 - First-Year Interaction Seminar
+9431: FYI 101 - First-Year Interaction Seminar
+9433: BUS 420 - International Business
+9434: PHED 108 - Func Fitness for Leaders
+9435: EDUC 220 - Teaching Div. Stu. Populations
+9436: FIN 450 - Corporate Financial Analysis
+9438: COSC 201 - Modeling & Simulation
+9439: ACCT 211 - Accounting Principles
+9440: COSC 273 - Computer Organization & Arch
+9444: PSY 260 - Personality
+9448: PSY 351 - Psychopharmacology
+9450: SOC 216 - Gender in Society
+9453: PSY 350 - Social Psychology
+9454: PSY 350 - Social Psychology Lab
+9457: MENA 260 - Peace & Conflict
+9461: REL 263 - Ethnography of Religion
+9462: REL 263 - Ethnography of Religion
+9464: REL 360 - Global Guide, Caring for Self
+9465: NEUS 351 - Human Neuroscience Laboratory
+9466: PHY 108 - Astronomy (with lab)
+9467: PHY 108 - Astronomy Lab
+9472: SPAN 201 - Intermediate Active Spanish
+9473: BIO 216 - Exper, Design, Analysis & Comm
+9474: BIO 216 - Exper, Design, Analysis & Comm
+9475: BIO 216 - Exper, Design, Analysis & Comm
+9480: BIO 386 - Freshwater Biology (with lab)
+9481: BIO 386 - Freshwater Biology Lab
+9486: PHIL 207 - Philosophy of Sport
+9487: PHIL 207 - Philosophy of Sport
+9492: ENGL 206 - Survey of African Am Lit
+9493: FIN 350 - Financial Statement Analysis
+9494: FIN 350 - Financial Statement Analysis
+9495: ENGL 321 - Antebellum Abolition Lit
+9496: ENGL 324 - Ethnic Literature in the U.S.
+9497: ENGL 332 - Global Medieval Literature
+9498: ENGL 346 - American Political Rhetoric
+9499: ENGL 416 - US & British Poetry, 1914-1945
+9507: ARTS 251 - Drawing
+9512: FIN 430 - Risk Management and Insurance
+9517: ENVS 201 - Intro Environ Social Science
+9522: ENGL 437 - So African Lit Post Apartheid
+9526: EDUC 320 - Human Growth & Development
+9533: INTL 325 - America and Global Economy
+9539: PHIL 216 - Social & Political Philosophy
+9540: PHIL 216 - Social & Political Philosophy
+9543: MATH 181 - Calculus I
+9549: ACCT 341 - Cost Accounting I
+9559: LIBA 101 - Stars Wars / Trek
+9565: FYI 101 - First-Year Interaction Seminar
+9570: PHY 141 - Phy for Sci & Engineer I Lab
+9573: MUS 260 - Private Instruction: Voice
+9574: PSY 256 - Introduction to Research II
+9584: PSY 255 - Introduction to Research
+9587: PSY 255 - Introduction to Research
+9588: PHED 108 - Pickleball
+9589: COSC 440 - Artificial Intelligence
+9590: SPAN 307 - Cultures of Spain
+9591: SPAN 420 - Enviro Hum: Ibero-Am World
+9592: SPAN 442 - Oral Proficiency
+9593: GER 406 - Multicult/Diversity in German
+9594: INTL 203 - Foundations of World Politics
+9595: INTL 321 - War and Conflict
+9596: INTL 363 - African Politics
+9597: PHIL 203 - Problems of Philosophy
+9598: PHIL 203 - Problems of Philosophy
+9599: PHIL 300 - Philosophical Methods
+9600: PHIL 311 - Principles of Ethics
+9601: PHIL 380 - Philosophy of Neurodiversity
+9602: PHIL 443 - Kant and 19th C. Philosophy
+9603: PSY 161 - Quantitative Methods in Psy II
+9604: PSY 240 - Child & Adolescent Development
+9605: PSY 310 - Cognitive Science
+9606: PSY 310 - Cognitive Science Lab
+9607: PSY 336 - The Neuroscience of Sleep
+9608: PSY 340 - Adult Development and Aging
+9609: MATH 280 - Intro to Stat Modeling
+9610: CHEM 104 - Chemistry: Concepts & Methods
+9611: CHEM 104 - Chemistry: Concepts & Mthd Lab
+9612: CHEM 203 - Organic Chemistry I Lab
+9613: CHEM 251 - Intro Biochem Research
+9614: FREN 443 - French Phonetics
+9615: FREN 413 - French Poetry
+9616: SOC 280 - Sociology of the Family
+9617: SOC 280 - Sociology of the Family
+9618: SOC 416 - Intersectional Theory
+9619: SOC 202 - Environmental Sociology
+9620: SOC 340 - Develop Sociological Thought
+9621: ANTH 450 - Capstone
+9622: ANTH 215 - Ancient North Am Archaeology
+9623: ANTH 101 - Introduction to Anthropology
+9624: ANTH 310 - Ethnographic Film
+9627: ANTH 400 - Ethnography of Housing
+9628: CHIN 308 - Chinese Literature in English
+9629: CHIN 401 - Advanced Chinese I
+9630: HIST 100 - Ancient, Medieval Hist to 1350
+9631: HIST 100 - Ancient, Medieval Hist to 1350
+9632: HIST 111 - History of the US, 1607-1865
+9633: HIST 111 - History of the US, 1607-1865
+9634: HIST 111 - History of the US, 1607-1865
+9635: HIST 112 - History of the US Since 1865
+9636: HIST 190 - Ancient Middle East
+9637: HIST 260 - Historiography and Res Meth
+9638: HIST 325 - America Since 1945
+9639: ARTH 231 - Global History of Modern Art
+9640: ARTH 202 - History of Western Art II
+9641: ARTH 202 - History of Western Art II
+9643: MUS 260 - Private Instruction: Guitar
+9644: MUS 260 - Private Instruction: Woodwinds
+9645: ACCT 220 - Excel Spreadsheets & Modeling
+9646: BUS 339 - Consumer Behavior
+9647: BUS 420 - International Business
+9648: BIO 216 - Exper, Design, Analysis & Comm
+9649: BIO 305 - Conservation Biology
+9650: BIO 309 - Seminar, Evolutionary Biology
+9651: BIO 332 - Developmental Bio (with lab)
+9652: BIO 332 - Developmental Bio Lab
+9653: BIO 333 - Nutrition
+9654: BIO 400 - Evolution/Integrative Biology
+9655: BIO 400 - Evolution/Integrative Biology
+9656: BIO 400 - Evolution/Integrative Biology
+9657: BIO 400 - Evolution/Integrative Biology
+9658: BIO 440 - Comp & Human Anatmy (with lab)
+9659: BIO 440 - Comp & Human Anatmy Lab
+9660: BIO 448 - Systems Neurobiology
+9661: ENVS 334 - Sustainable Agriculture
+9662: ENVS 334 - Sustainable Agriculture Lab
+9663: ENVS 340 - Quant Enviro Methods & Models
+9664: ENVS 340 - Quant Enviro Mthd & Models Lab
+9665: ENVS 327 - Major Themes Environ Writing
+9666: ENVS 312 - Problems in US Enviro Policy
+9667: ECO 480 - Urban Economics
+9668: ECO 300 - Intermediate Managerial Econ
+9669: ECO 303 - Econometrics
+9670: ECO 322 - Money and Banking
+9671: ECO 333 - Environmental Economics
+9672: PHY 121 - General Physics I
+9673: PHY 121 - General Physics I Lab
+9674: PHY 141 - Phy for Sci & Engineering I
+9675: PHY 204 - Medical Physics
+9676: PHY 112 - First-Year Physics Seminar
+9677: PHY 215 - Math Methods in Physics
+9678: THEA 310 - Improvisation for the Actor
+9679: THEA 201 - Introduction to the Theatre
+9680: THEA 385 - Period Styles
+9681: ENGL 203 - Literature Written in the U.S.
+9683: ENGL 350 - Digital Media Theory
+9684: ENGL 204 - Survey of World Literature
+9685: ENGL 437 - TV & Film Adapt. of World Lit.
+9686: ENGL 210 - 18th Century British Lit
+9687: REL 202 - The New Testament
+9688: REL 202 - The New Testament
+9689: REL 304 - Gods of the Biblical World
+9690: REL 240 - Religions of the World
+9691: REL 358 - Hindu Religious Traditions
+9692: REL 352 - Premodern Islam
+9693: ARTS 261 - Ceramics I
+9694: ARTS 255 - Digital Photography I
+9695: ARTS 357 - Installation Art
+9696: SOC 226 - Wealth, Power, and Inequality
+9698: FIN 460 - Applied Behavioral Finance
+9699: PHY 103 - Physics: Science in Context
+9700: HIST 382 - Western Europe, 1945-1991
+9701: ENGL 207 - The Craft of Literary Forms
+9702: PHIL 307 - Everyday Aesthetics
+9703: ANTH 206 - Urban Anthropology
+9704: ANTH 300 - Ethnography
+9705: ARTS 250 - Design Strategies
+9707: ARTS 245 - Introduction to Studio Art
+9708: ARTS 245 - Introduction to Studio Art
+9709: ENGL 102 - Seminar in Literature and Comp
+9710: ECO 332 - Law and Economics
+9711: CHEM 450 - Senior Research
+9712: ARTH 380 - Art and Northern Renaissance
+9713: ANTH 313 - Cultures of SE Asia & Oceania
+9714: HIST 500 - Honors Course
+9716: CHIN 442 - Oral Proficiency in Chinese
+9717: REL 222 - Introduction to Confucianism
+9718: ANTH 470 - Community Sustainability
+9719: REL 475 - Sr. Directed Study in Religion
+9720: THEA 205 - Production Design I
+9721: THEA 405 - Production Design II
+9722: PHIL 215 - Environmental Ethics
+9723: PHIL 215 - Environmental Ethics
+9724: PHIL 215 - Environmental Ethics
+9725: PHIL 342 - Philosophy of Religion
+9726: ARTH 470 - Tolbert Curatorial Internship
+9727: CHEM 124 - General Chemistry
+9728: CHEM 124 - General Chemistry Lab
+9729: FREN 470 - Independent Study in French
+9732: BIO 333 - Nutrition
+9733: BIO 250 - Introduction to Research
+9734: BIO 250 - Introduction to Research
+9735: BIO 450 - Research
+9736: BIO 450 - Research
+9737: BIO 450 - Research
+9738: BIO 450 - Research
+9740: HIST 112 - History of the US Since 1865
+9741: HIST 112 - History of the US Since 1865
+9742: PHIL 500 - Honors Course
+9743: HIST 111 - History of the US, 1607-1865
+9744: FYI 101 - First-Year Interaction Seminar
+9750: PSY 460 - Advanced Research
+9752: BIO 450 - Research
