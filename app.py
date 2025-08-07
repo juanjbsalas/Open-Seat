@@ -235,6 +235,37 @@ def handle_500(e):
 def handle_404(e):
     return redirect(url_for('index'))
 
+# Add this route temporarily to your app.py for debugging
+@app.route('/debug')
+def debug():
+    """Debug route to test Selenium on Railway"""
+    try:
+        from scraper import scrapeCourses
+        courses = scrapeCourses()
+        
+        if courses:
+            sample = dict(list(courses.items())[:3])  # First 3 courses
+            return jsonify({
+                'status': 'success',
+                'total_courses': len(courses),
+                'sample_courses': sample,
+                'environment': os.environ.get('RAILWAY_ENVIRONMENT', 'Unknown')
+            })
+        else:
+            return jsonify({
+                'status': 'error',
+                'message': 'No courses found',
+                'environment': os.environ.get('RAILWAY_ENVIRONMENT', 'Unknown')
+            })
+            
+    except Exception as e:
+        return jsonify({
+            'status': 'error',
+            'error': str(e),
+            'traceback': traceback.format_exc(),
+            'environment': os.environ.get('RAILWAY_ENVIRONMENT', 'Unknown')
+        })
+
 if __name__ == '__main__':
     try:
         # Load existing requests and start monitoring
